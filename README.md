@@ -73,10 +73,7 @@ npm install
 
 Create .env file inside /server:
 
-PORT=10000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=mongodb+srv://chatuser:Pulsechat123@cluster0.neeyane.mongodb.net/?appName=Cluster0
-CLIENT_URL=http://localhost:5173
+
 
 Run backend:
 
